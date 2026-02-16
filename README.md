@@ -14,7 +14,7 @@
     <td width="60%">
       <pre lang="javascript">
 import Developer from "Joao_Vitor";
-
+<h1>
 class myInfos extends Developer {
   nome        = "João Vitor";
   estudo      = "ETEC - Técnico em DS";
